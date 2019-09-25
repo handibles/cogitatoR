@@ -26,9 +26,9 @@ Should provide __usable__ colour palettes for the major Imperial and (```Emperor
 
   * Must reformat to be ```less heretical```, more in line with sanctioned style guidelines
   * need to pick heretical images of ```His``` foes, many of which not cleared to know 
+  * lovely code for this :: [ought to review ```r::wesandersonpalettes``` code](https://github.com/karthik/wesanderson)
   * [need to reference ```r::cuttlefish``` material](https://github.com/jcbain/cuttlefish/)
   * ought to copy in the citadel HTML codes as presented elsewhere in data
-  * [ought to review ```r::wesandersonpalettes``` code](https://github.com/karthik/wesanderson)
   * ought to provide ```Thought For The Day``` lest become weak, prone to temptation, [heretical](https://wh40k.lexicanum.com/wiki/Thought_for_the_day)
   * all errors should decry ```HERESY``` before anything even remotely useful.
  
