@@ -21,7 +21,7 @@ Aesthetic hobby coding for the hobby project of hobby projects.
 
 # outline
 
-Should provide __usable__ colour palettes for the major Imperial and (```Emperor``` preserve us) Xenos factions, as well as (unspeakable heresy) the original twenty Legia. That's a lot of palettes requiring manual curation, but crucially also a lot of crap palettes only good for 4-6 levels at best. 
+Should provide __usable__ colour palettes for the major Imperial and (```Emperor``` preserve us) Xenos factions, as well as (unspeakable heresy) the original ~twenty~ eighteen Legia . That's a lot of palettes requiring manual curation, but crucially also a lot of crap palettes only good for 4-6 levels at best. 
 
 
   * Must reformat to be ```less heretical```, more in line with sanctioned style guidelines
